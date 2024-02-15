@@ -20,7 +20,9 @@
     "react": "^18",
     "react-dom": "^18",
     "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "@prisma/client": "^5.9.1",
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "@types/node": "^20",
